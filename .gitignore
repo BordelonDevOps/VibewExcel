@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+.vscode/
+.env/
+.venv/
+*.xlsb
+*.xlsx
+output.txt
+input.json
