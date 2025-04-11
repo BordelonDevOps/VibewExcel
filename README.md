@@ -17,4 +17,4 @@ Run the `setup/setup_vibe.bat` to automatically:
 ## Developer
 Maintained by [BordelonDevOps](https://github.com/BordelonDevOps)
 
-Contact: Bordelondevops2025@gmail
+Contact: Bordelondevops2025@gmail.com
